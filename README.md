@@ -10,7 +10,7 @@
   </tr>
   <tr>
     <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=evanhuang117&layout=compact&theme=material-palenight" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=evanhuang117&layout=compact&theme=material-palenight&hide_title=true" />
     </td>
   </tr>
 </table>
