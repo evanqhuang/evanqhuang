@@ -1,8 +1,8 @@
 
-<table border="0">
+<table>
   <tr>
     <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=evanhuang117&show_icons=true&theme=material-palenight" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=evanhuang117&show_icons=true&theme=material-palenight&hide_title=true&hide=issues" />
     </td>
     <td rowspan="2">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanhuang117&theme=material-palenight" />
