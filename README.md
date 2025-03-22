@@ -6,24 +6,29 @@
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vim Script               6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           4 mins              ████████████████░░░░░░░░░   64.16 % 
+Vim                      2 mins              █████████░░░░░░░░░░░░░░░░   35.84 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          4 mins              ███████████████████░░░░░░   76.64 % 
+evanhuang                1 min               ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              ███████████████████░░░░░░   76.64 % 
+Mac                      1 min               ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
 ```
 
 
- Last Updated on 22/03/2025 02:49:40 UTC
+ Last Updated on 22/03/2025 18:41:05 UTC
 <!--END_SECTION:waka-->
