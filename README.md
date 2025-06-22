@@ -1,9 +1,4 @@
-<a href="https://github.com/jstrieb/github-stats">
- 
-![](https://github.com/evanhuang117/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/evanhuang117/github-stats/blob/master/generated/languages.svg)
 
-</a>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-943%20hrs%2014%20mins-blue)
