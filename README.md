@@ -9,23 +9,23 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 37 mins       ███████████████████████░░   91.85 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Dotenv                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Vim Script               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Python                   4 hrs 37 mins       ███████████████████████░░   90.73 % 
+Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Dotenv                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Vim Script               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Vim                      5 hrs 1 min         █████████████████████████   100.00 % 
+Vim                      5 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-evanhuang                2 hrs 32 mins       █████████████░░░░░░░░░░░░   50.38 % 
-rapidapi                 2 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.62 % 
+rapidapi                 2 hrs 33 mins       █████████████░░░░░░░░░░░░   50.23 % 
+evanhuang                2 hrs 32 mins       ████████████░░░░░░░░░░░░░   49.77 % 
 
 💻 Operating System: 
-Mac                      5 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      5 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/03/2026 19:11:49 UTC
+ Last Updated on 11/03/2026 19:13:49 UTC
 <!--END_SECTION:waka-->
