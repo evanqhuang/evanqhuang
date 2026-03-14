@@ -9,26 +9,26 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 37 mins       █████████████████████░░░░   85.59 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Dotenv                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Python                   4 hrs 37 mins       █████████████████████░░░░   85.71 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Dotenv                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 Vim Script               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
 Vim                      5 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rapidapi                 2 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.38 % 
-evanhuang                2 hrs 32 mins       ████████████░░░░░░░░░░░░░   46.94 % 
-fluxgym                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+rapidapi                 2 hrs 32 mins       ████████████░░░░░░░░░░░░░   47.31 % 
+evanhuang                2 hrs 32 mins       ████████████░░░░░░░░░░░░░   47.01 % 
+fluxgym                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 UnFare                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 💻 Operating System: 
-Mac                      5 hrs 5 mins        ████████████████████████░   94.33 % 
-Linux                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Mac                      5 hrs 4 mins        ████████████████████████░   94.32 % 
+Linux                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 
 
- Last Updated on 13/03/2026 19:06:29 UTC
+ Last Updated on 14/03/2026 19:01:58 UTC
 <!--END_SECTION:waka-->
