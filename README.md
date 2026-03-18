@@ -9,22 +9,19 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-YAML                     18 mins             █████████████████████░░░░   83.17 % 
-Dotenv                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+YAML                     18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Vim                      22 mins             █████████████████████████   100.00 % 
+Vim                      18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fluxgym                  9 mins              ███████████░░░░░░░░░░░░░░   43.31 % 
-UnFare                   8 mins              ██████████░░░░░░░░░░░░░░░   39.86 % 
-rapidapi                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+fluxgym                  9 mins              █████████████░░░░░░░░░░░░   52.07 % 
+UnFare                   8 mins              ████████████░░░░░░░░░░░░░   47.93 % 
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████░░░░   83.17 % 
-Mac                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Linux                    18 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2026 19:32:40 UTC
+ Last Updated on 18/03/2026 19:28:21 UTC
 <!--END_SECTION:waka-->
