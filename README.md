@@ -1,7 +1,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C269%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,27 +9,27 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 34 mins             █████████████░░░░░░░░░░░░   50.32 % 
-Python                   17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-YAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Markdown                 59 mins             ████████████████░░░░░░░░░   62.17 % 
+Python                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+HCL                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-Vim                      1 hr 8 mins         █████████████████████████   100.00 % 
+Vim                      1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rapidapi                 25 mins             █████████░░░░░░░░░░░░░░░░   37.45 % 
-fluxgym                  22 mins             ████████░░░░░░░░░░░░░░░░░   32.30 % 
-Unknown Project          16 mins             ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-sd-scripts               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-camazotz-consulting      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+flights-api              35 mins             █████████░░░░░░░░░░░░░░░░   36.63 % 
+rapidapi                 25 mins             ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+fluxgym                  22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+sd-scripts               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 💻 Operating System: 
-Linux                    41 mins             ███████████████░░░░░░░░░░   60.51 % 
-Mac                      27 mins             ██████████░░░░░░░░░░░░░░░   39.49 % 
+Mac                      1 hr 2 mins         ████████████████░░░░░░░░░   65.16 % 
+Linux                    33 mins             █████████░░░░░░░░░░░░░░░░   34.84 % 
 ```
 
 
- Last Updated on 14/04/2026 19:47:01 UTC
+ Last Updated on 15/04/2026 19:47:40 UTC
 <!--END_SECTION:waka-->
