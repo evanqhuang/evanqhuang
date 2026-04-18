@@ -1,7 +1,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C270%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs%2035%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,27 +9,27 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 59 mins             ████████████████░░░░░░░░░   62.05 % 
-Python                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-HCL                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 1 hr 1 min          ███████████░░░░░░░░░░░░░░   44.66 % 
+Python                   41 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+Text                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+HCL                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Vim                      1 hr 36 mins        █████████████████████████   100.00 % 
+Vim                      2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-flights-api              35 mins             █████████░░░░░░░░░░░░░░░░   36.56 % 
-rapidapi                 25 mins             ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-fluxgym                  22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-sd-scripts               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+storage                  52 mins             █████████░░░░░░░░░░░░░░░░   37.89 % 
+flights-api              35 mins             ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+rapidapi                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+fluxgym                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+comfy                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 💻 Operating System: 
-Mac                      1 hr 2 mins         ████████████████░░░░░░░░░   65.22 % 
-Linux                    33 mins             █████████░░░░░░░░░░░░░░░░   34.78 % 
+Linux                    1 hr 14 mins        ██████████████░░░░░░░░░░░   54.23 % 
+Mac                      1 hr 3 mins         ███████████░░░░░░░░░░░░░░   45.77 % 
 ```
 
 
- Last Updated on 17/04/2026 19:35:18 UTC
+ Last Updated on 18/04/2026 19:13:08 UTC
 <!--END_SECTION:waka-->
