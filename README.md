@@ -1,7 +1,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,27 +9,28 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 1 hr 1 min          ███████████░░░░░░░░░░░░░░   44.66 % 
-Python                   41 mins             ███████░░░░░░░░░░░░░░░░░░   29.70 % 
-Text                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-HCL                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Markdown                 1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   36.50 % 
+Python                   1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.16 % 
+sh                       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Text                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+HCL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 🔥 Editors: 
-Vim                      2 hrs 18 mins       █████████████████████████   100.00 % 
+Vim                      3 hrs 4 mins        ██████████████████████░░░   88.20 % 
+Zsh                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 
 🐱‍💻 Projects: 
-storage                  52 mins             █████████░░░░░░░░░░░░░░░░   37.89 % 
-flights-api              35 mins             ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-rapidapi                 25 mins             █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-fluxgym                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-comfy                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+storage                  52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+flights-api              36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+UnFare                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+rapidapi                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+camazotz-site            17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 💻 Operating System: 
-Linux                    1 hr 14 mins        ██████████████░░░░░░░░░░░   54.23 % 
-Mac                      1 hr 3 mins         ███████████░░░░░░░░░░░░░░   45.77 % 
+Linux                    2 hrs 1 min         ███████████████░░░░░░░░░░   58.02 % 
+Mac                      1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   41.98 % 
 ```
 
 
- Last Updated on 18/04/2026 19:13:08 UTC
+ Last Updated on 19/04/2026 19:12:59 UTC
 <!--END_SECTION:waka-->
