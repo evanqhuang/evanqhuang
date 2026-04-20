@@ -1,7 +1,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C272%20hrs%201%20min-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,28 +9,28 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   36.50 % 
-Python                   1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.16 % 
-sh                       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Text                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-HCL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Markdown                 1 hr 16 mins        █████████░░░░░░░░░░░░░░░░   35.56 % 
+Python                   1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   31.33 % 
+sh                       29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Text                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+HCL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-Vim                      3 hrs 4 mins        ██████████████████████░░░   88.20 % 
-Zsh                      24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Vim                      3 hrs 5 mins        ██████████████████████░░░   86.27 % 
+Zsh                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 
 🐱‍💻 Projects: 
-storage                  52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-flights-api              36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-UnFare                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-rapidapi                 32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-camazotz-site            17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+storage                  52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+flights-api              36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+UnFare                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+rapidapi                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+camazotz-site            18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 
 💻 Operating System: 
-Linux                    2 hrs 1 min         ███████████████░░░░░░░░░░   58.02 % 
-Mac                      1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   41.98 % 
+Linux                    2 hrs 1 min         ██████████████░░░░░░░░░░░   56.52 % 
+Mac                      1 hr 33 mins        ███████████░░░░░░░░░░░░░░   43.48 % 
 ```
 
 
- Last Updated on 19/04/2026 19:12:59 UTC
+ Last Updated on 20/04/2026 19:38:19 UTC
 <!--END_SECTION:waka-->
