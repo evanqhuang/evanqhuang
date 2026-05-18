@@ -1,7 +1,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C388%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C398%20hrs%2032%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,29 +9,29 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Python                   3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-sh                       2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-HTML                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Markdown                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Other                    5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+sh                       2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Python                   2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+HTML                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Markdown                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 🔥 Editors: 
-Zsh                      5 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.57 % 
-OpenCode                 5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Unknown Editor           3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Vim                      2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+OpenCode                 8 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.32 % 
+Zsh                      6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.29 % 
+Unknown Editor           3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Vim                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 
 🐱‍💻 Projects: 
-palantir                 15 hrs 6 mins       ███████████████████████░░   91.35 % 
-hostelhawk               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-rapidapi                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-evanhuang                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-UnFare                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+palantir                 17 hrs 46 mins      ██████████████████████░░░   87.91 % 
+hostelhawk               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+flights-api              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+rapidapi                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+evanhuang                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Mac                      16 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/05/2026 19:43:08 UTC
+ Last Updated on 18/05/2026 20:10:33 UTC
 <!--END_SECTION:waka-->
