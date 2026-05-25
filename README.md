@@ -9,18 +9,23 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               18 mins             ████████████░░░░░░░░░░░░░   46.95 % 
+Rust                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+sh                       3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              35 mins             ██████████████████████░░░   89.82 % 
+Zsh                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hostelhawk               39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2026 19:45:43 UTC
+ Last Updated on 25/05/2026 20:07:01 UTC
 <!--END_SECTION:waka-->
