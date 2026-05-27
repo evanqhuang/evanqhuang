@@ -1,7 +1,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%2019%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,23 +9,23 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               18 mins             ████████████░░░░░░░░░░░░░   46.95 % 
-Rust                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Markdown                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Bash                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-sh                       3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+TypeScript               58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Rust                     53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Makefile                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 
 🔥 Editors: 
-Claude Code              35 mins             ██████████████████████░░░   89.82 % 
-Zsh                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Claude Code              4 hrs 4 mins        █████████████████████████   98.35 % 
+Zsh                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 🐱‍💻 Projects: 
-hostelhawk               39 mins             █████████████████████████   100.00 % 
+hostelhawk               4 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 20:28:29 UTC
+ Last Updated on 27/05/2026 20:31:46 UTC
 <!--END_SECTION:waka-->
