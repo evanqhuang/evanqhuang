@@ -1,7 +1,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C406%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C412%20hrs%2026%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,25 +9,26 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Bash                     1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-TypeScript               1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Rust                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-SQL                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Other                    2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+TypeScript               2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Rust                     1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Bash                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Python                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 2 mins        █████████████████████████   98.23 % 
-Zsh                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Claude Code              11 hrs 49 mins      ████████████████████████░   96.22 % 
+Zsh                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🐱‍💻 Projects: 
-hostelhawk               5 hrs 30 mins       ██████████████████████░░░   89.61 % 
-rapidapi                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-evanhuang                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+hostelhawk               10 hrs 14 mins      █████████████████████░░░░   83.36 % 
+rapidapi                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+finfeed                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+evanhuang                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Mac                      6 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      12 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/05/2026 20:41:04 UTC
+ Last Updated on 30/05/2026 19:46:51 UTC
 <!--END_SECTION:waka-->
