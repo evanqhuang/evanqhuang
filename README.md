@@ -1,7 +1,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C445%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C449%20hrs%2041%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,28 +9,29 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Markdown                 3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Svelte                   3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Python                   3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Other                    3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+TypeScript               6 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Markdown                 5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Svelte                   4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Python                   3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Other                    3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 59 mins      ███████████████████████░░   93.61 % 
-Zsh                      2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Vim                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude Code              35 hrs 37 mins      ███████████████████████░░   90.56 % 
+Zsh                      3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Vim                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-hostelhawk               23 hrs 8 mins       ██████████████████░░░░░░░   72.26 % 
-evanhuang                4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-concert-tickets-api      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-finfeed                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-rapidapi                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+hostelhawk               28 hrs 15 mins      ██████████████████░░░░░░░   71.83 % 
+evanhuang                5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+concert-tickets-api      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+finfeed                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+rapidapi                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Mac                      32 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      39 hrs 17 mins      █████████████████████████   99.86 % 
+Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 
- Last Updated on 01/06/2026 21:47:02 UTC
+ Last Updated on 02/06/2026 21:28:14 UTC
 <!--END_SECTION:waka-->
