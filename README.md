@@ -1,6 +1,6 @@
 ## Evan Huang
 
-Software Engineer at Capital One — distributed systems, developer tooling, and the occasional piece of underwater hardware.
+Distributed systems, developer tooling, and the occasional piece of underwater hardware.
 
 🌐 **[evanqhuang.com](https://evanqhuang.com)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/evanqhuang)** &nbsp;·&nbsp; ✉️ **[evanhuang117@gmail.com](mailto:evanhuang117@gmail.com)**
 
