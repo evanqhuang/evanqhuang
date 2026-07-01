@@ -17,4 +17,4 @@ Distributed systems, developer tooling, and the occasional piece of underwater h
 
 ### Stack
 
-`Go` · `TypeScript` · `Python` · `Rust` · `React` · `Svelte` · `Kafka` · `AWS`
+`Go` · `TypeScript` · `Python` · `Rust` · `React` · `Svelte` · `GCP`
