@@ -10,7 +10,7 @@ Distributed systems, developer tooling, and the occasional piece of underwater h
 
 - 🐶 **[HostelHound](https://hostelhound.com)** — Full service price history and predictions for hostels. *SvelteKit · Rust · TimescaleDB.*
 - 🌊 **[Camazotz](https://camazotzdiving.com)** — Designing and selling cave diving equipment, including a handheld underwater cave-mapping device with real time navigation. *Fusion, RP2350 firmware in C.*
-- 🐟 **[FinFeed](https://finfeed.evanqhuang.com)** — Live fish-tank camera streamed to any browser over HLS, no cloud service in between. *Raspberry Pi · FFmpeg · hls.js.*
+- 🐟 **[FinFeed](https://finfeed.evanqhuang.com)** — Live fish-tank camera. *Raspberry Pi · FFmpeg · hls.js.*
 
 ---
 
